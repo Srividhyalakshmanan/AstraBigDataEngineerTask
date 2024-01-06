@@ -16,5 +16,26 @@ Please add the following external dependencies to the project
 
 This will generate output.json in the below format after considerable amount of execution time since the scraping is happening on the local website clone.
 
+{
+    "Products": [
+        {
+            "Title": "Boots Sleepeaze Tablets 50 mg - 20s",
+            "Price": "5.79",
+            "Price_Unit": "£",
+            "Short_Desc": "20UNI | £0.29 per 1UNI",
+            "Rating": "4.1",
+            "Page_size": 41.4208984375
+        },
+        {
+            "Title": "Boots Sleepeaze Tablets 25 mg - 20s",
+            "Price": "3.90",
+            "Price_Unit": "£",
+            "Short_Desc": "20UNI | £0.20 per 1UNI",
+            "Rating": "2.7",
+            "Page_size": 41.2275390625
+        }
+        ]
+}
+
 
 
